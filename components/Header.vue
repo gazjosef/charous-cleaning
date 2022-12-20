@@ -1,9 +1,14 @@
 <template>
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
+  <div class="bg-indigoBlue relative">
+    <Navbar />
+    <Home />
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'NuxtHeader',
-}
+  name: "NuxtHeader",
+};
 </script>
+
+<style lang="sass" scoped></style>
