@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-indigoBlue min-h-screen">
+  <div class="bg-indigoBlue min-h-screen grid place-content-center">
     <h1>Home</h1>
   </div>
 </template>

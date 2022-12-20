@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-indigoBlue relative">
+  <div class="bg-indigoBlue relative text-white">
     <Navbar />
     <Home />
   </div>

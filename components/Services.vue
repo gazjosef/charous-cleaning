@@ -1,6 +1,8 @@
 <template>
-  <div class="bg-metal">
-    <div class="container min-h-screen mx-auto text-center">
+  <div
+    class="bg-metal min-h-screen mx-auto grid place-content-center text-center"
+  >
+    <div class="container">
       <h1 class="text-center">Services</h1>
       <div class="grid md:grid-cols-3">
         <div>

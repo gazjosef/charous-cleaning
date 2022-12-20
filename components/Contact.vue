@@ -1,5 +1,9 @@
 <template>
-  <h1>Contact</h1>
+  <div
+    class="bg-bubble-gum min-h-screen mx-auto grid place-content-center text-center"
+  >
+    <h1>Contact</h1>
+  </div>
 </template>
 
 <script>
