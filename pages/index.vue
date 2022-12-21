@@ -12,6 +12,8 @@
     <Contact />
 
     <Tutorial />
+
+    <Footer />
   </div>
 </template>
 
