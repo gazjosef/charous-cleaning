@@ -5,7 +5,7 @@
 /* TYPOGRAPHY */
 
 .primary-heading {
-  @apply font-bold leading-tight text-4xl;
+  @apply font-bold leading-tight text-4xl text-center;
 }
 
 .secondary-heading {
@@ -13,4 +13,5 @@
 }
 
 .primary-paragraph {
+  @apply text-base;
 }
