@@ -1,19 +1,13 @@
 <template>
   <div>
-    <Header />
+    <LayoutHeader />
 
-    <!-- SERVICES PAGE -->
-    <Services />
-    <!-- STORY PAGE -->
-    <Story />
-    <!-- TESTIMONIAL PAGE -->
-    <Testimonial />
-    <!-- CONTACT PAGE -->
-    <Contact />
+    <SectionServices />
+    <SectionStory />
+    <SectionTestimonial />
+    <SectionContact />
 
-    <Tutorial />
-
-    <Footer />
+    <LayoutFooter />
   </div>
 </template>
 

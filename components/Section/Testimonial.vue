@@ -4,11 +4,6 @@
       <section class="mb-20 text-gray-700">
         <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
           <h3 class="text-3xl font-bold mb-6 text-gray-800">Testimonials</h3>
-          <p class="mb-6 pb-2 md:mb-12 md:pb-0">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
-            error amet numquam iure provident voluptate esse quasi, veritatis
-            totam voluptas nostrum quisquam eum porro a pariatur veniam.
-          </p>
         </div>
 
         <div class="grid md:grid-cols-3 gap-6 lg:gap-12 text-center">
@@ -368,7 +363,7 @@
 
 <script>
 export default {
-  name: "TestimonialPage",
+  name: "SectionTestimonial",
 };
 </script>
 

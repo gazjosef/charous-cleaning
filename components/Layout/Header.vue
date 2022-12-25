@@ -1,7 +1,7 @@
 <template>
   <div class="bg-indigoBlue relative text-white">
-    <Navbar />
-    <Home />
+    <LayoutNavbar />
+    <LayoutHome />
   </div>
 </template>
 
