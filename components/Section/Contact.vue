@@ -1,8 +1,9 @@
 <template>
   <div class="min-h-screen mx-auto grid place-content-center text-center">
     <div class="container">
+      <h1 class="text-3xl font-bold mb-6">Contact Us</h1>
+
       <div class="rounded-lg shadow-lg bg-white p-4 max-w-[80%] mx-auto">
-        <h1 class="text-3xl font-bold mb-6">Contact us</h1>
         <section class="mb-32 text-gray-800">
           <div class="flex flex-wrap">
             <div
@@ -61,7 +62,7 @@
                 </div>
                 <button
                   type="submit"
-                  class="w-full px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+                  class="w-full px-6 py-2.5 bg-blue-600 font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
                 >
                   Send
                 </button>

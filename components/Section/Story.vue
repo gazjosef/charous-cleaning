@@ -1,19 +1,22 @@
 <template>
   <div class="min-h-screen | grid place-content-center | text-center">
-    <h1 class="primary-heading | mb-4">Story</h1>
+    <UIPrimaryHeading title="Story" />
+
     <div class="grid md:grid-cols-2 gap-4">
       <div class="grid place-content-center">
-        <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. In at enim
-          ut, explicabo sequi eligendi.
-        </p>
+        <UIParagraph
+          text="Lorem ipsum, dolor sit amet consectetur adipisicing elit. In at enim
+          ut, explicabo sequi eligendi."
+        />
       </div>
       <div class="grid place-content-center">
-        <img
+        <!-- <img
           src="../../assets/images/jubeo-hernandez-ZmWLGkPe1Sg-unsplash.jpg"
           class="p-1 bg-white border rounded max-w-sm"
           alt="..."
-        />
+        /> -->
+
+        <UIImage image="repair2" alt="Hello World" />
       </div>
     </div>
   </div>

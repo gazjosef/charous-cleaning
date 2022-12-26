@@ -1,20 +1,24 @@
 <template>
-  <div class="min-h-screen grid place-content-center text-center">
+  <div class="min-h-screen | grid place-content-center | text-center">
     <div class="container">
-      <h1 class="primary-heading | mb-4">Services</h1>
+      <UIPrimaryHeading title="Services" />
+
       <div class="grid md:grid-cols-3 gap-4">
         <UICard
-          title="helloWorld"
+          image="clean"
+          title="Clean"
           excerpt="Some quick example text to build on the card title and make up the bulk
         of the card's content."
         />
         <UICard
-          title="helloWorld2"
+          image="repair2"
+          title="Repair"
           excerpt="Some quick example text to build on the card title and make up the bulk
         of the card's content."
         />
         <UICard
-          title="helloWorld3"
+          image="service"
+          title="Service"
           excerpt="Some quick example text to build on the card title and make up the bulk
         of the card's content."
         />

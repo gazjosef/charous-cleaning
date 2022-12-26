@@ -1,10 +1,8 @@
 <template>
-  <div class="min-h-screen mx-auto grid place-content-center text-center">
+  <div class="min-h-screen mx-auto | grid place-content-center">
     <div class="container">
-      <section class="mb-20 text-gray-700">
-        <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
-          <h3 class="text-3xl font-bold mb-6 text-gray-800">Testimonials</h3>
-        </div>
+      <section class="max-w-5xl mb-20 | text-gray-700">
+        <UIPrimaryHeading title="Testimonials" />
 
         <div class="grid md:grid-cols-3 gap-6 lg:gap-12 text-center">
           <UITestimonialCard

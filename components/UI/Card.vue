@@ -1,15 +1,16 @@
 <template>
-  <div class="rounded-lg shadow-lg bg-white max-w-sm">
+  <div class="bg-white max-w-sm rounded-lg shadow-lg">
     <a href="#!">
       <img
         class="rounded-t-lg"
-        src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
-        alt=""
+        :src="require(`@/assets/images/${image}.jpg`)"
+        :alt="image"
       />
     </a>
     <div class="p-6">
-      <h5 class="text-xl font-medium mb-2">{{ title }}</h5>
-      <p class="text-base mb-4">{{ excerpt }}</p>
+      <UISecondaryHeading :title="title" />
+
+      <UIParagraph :text="excerpt" />
 
       <UIButton />
     </div>
@@ -19,6 +20,7 @@
 <script>
 export default {
   props: {
+    image: String,
     title: String,
     excerpt: String,
   },

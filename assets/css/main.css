@@ -1,17 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* TYPOGRAPHY */
-
-.primary-heading {
-  @apply font-bold leading-tight text-4xl text-center;
-}
-
-.secondary-heading {
-  @apply font-bold leading-tight text-4xl;
-}
-
-.primary-paragraph {
-  @apply text-base;
-}
