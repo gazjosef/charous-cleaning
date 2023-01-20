@@ -1,5 +1,6 @@
 <template>
   <div class="min-h-screen mx-auto | grid place-content-center">
+    <UIPrimaryHeading title="Gallery" />
     <div class="container"></div>
   </div>
 </template>

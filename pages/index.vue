@@ -5,6 +5,7 @@
     <SectionServices />
     <SectionStory />
     <SectionTestimonial />
+    <SectionGallery />
     <SectionContact />
 
     <LayoutFooter />
