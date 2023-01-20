@@ -1,6 +1,6 @@
 <template>
   <img
-    :src="require(`@/assets/images/${image}.jpg`)"
+    :src="require(`../../assets/images/${image}.jpg`)"
     alt="alt"
     class="max-w-md rounded"
   />
@@ -12,7 +12,7 @@ export default {
     image: String,
     alt: String,
   },
-  name: "UIImage",
+  name: "UIGallery",
 };
 </script>
 
