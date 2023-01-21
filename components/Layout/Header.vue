@@ -1,7 +1,6 @@
 <template>
-  <div class="bg-indigoBlue relative text-white">
+  <div class="relative">
     <LayoutNavbar />
-    <LayoutHome />
   </div>
 </template>
 

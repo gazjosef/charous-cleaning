@@ -2,6 +2,7 @@
   <div>
     <LayoutHeader />
 
+    <LayoutHome />
     <SectionServices />
     <SectionStory />
     <SectionTestimonial />

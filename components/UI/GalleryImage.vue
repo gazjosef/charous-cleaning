@@ -12,7 +12,7 @@ export default {
     image: String,
     alt: String,
   },
-  name: "UIGallery",
+  name: "UIGalleryImage",
 };
 </script>
 
