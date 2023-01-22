@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen | grid place-content-center | text-center">
-    <UIPrimaryHeading title="Story" />
+    <UIPrimaryHeading title="About us" />
 
     <div class="grid md:grid-cols-2 gap-4">
       <div class="grid place-content-center">

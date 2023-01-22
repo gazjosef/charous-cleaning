@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen | grid place-content-center | text-center">
     <div class="container">
-      <UIPrimaryHeading title="Services" />
+      <UIPrimaryHeading title="Check out our services" />
 
       <div class="grid md:grid-cols-3 gap-4">
         <UICard

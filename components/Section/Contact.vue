@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen mx-auto grid place-content-center text-center">
     <div class="container">
-      <h1 class="text-3xl font-bold mb-6">Contact Us</h1>
+      <UIPrimaryHeading title="Contact Us" />
 
       <div class="rounded-lg shadow-lg bg-white p-4 max-w-[80%] mx-auto">
         <section class="mb-32 text-gray-800">
