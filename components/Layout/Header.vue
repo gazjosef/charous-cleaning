@@ -1,5 +1,6 @@
 <template>
   <div class="relative">
+    <SectionNotificationBar />
     <LayoutNavbar />
   </div>
 </template>
