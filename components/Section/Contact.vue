@@ -1,5 +1,7 @@
 <template>
-  <div class="min-h-screen mx-auto grid place-content-center text-center">
+  <div
+    class="bg-aliceBlue min-h-screen mx-auto | grid place-content-center | text-center"
+  >
     <div class="container">
       <UIPrimaryHeading title="Contact Us" />
 

@@ -1,5 +1,8 @@
 <template>
-  <div class="min-h-screen | grid place-content-center | text-center">
+  <div
+    id="#services"
+    class="bg-aliceBlue min-h-screen | grid place-content-center | text-center"
+  >
     <div class="container">
       <UIPrimaryHeading title="Check out our services" />
 

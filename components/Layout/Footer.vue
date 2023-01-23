@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-indigoBlue | text-center lg:text-left text-white">
+  <footer class="bg-midnight | text-center lg:text-left text-white">
     <!-- SOCIAL MEDIA LINKS -->
     <div
       class="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300"
@@ -91,7 +91,7 @@
             <a href="#!" class="text-gray-600">Home</a>
           </p>
           <p class="mb-4">
-            <a href="#!" class="text-gray-600">Services</a>
+            <a href="#services" class="text-gray-600">Services</a>
           </p>
           <p class="mb-4">
             <a href="#!" class="text-gray-600">Story</a>

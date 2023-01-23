@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen mx-auto | grid place-content-center">
+  <div class="bg-aliceBlue min-h-screen mx-auto | grid place-content-center">
     <div class="container">
       <section class="max-w-5xl mb-20 | text-gray-700">
         <UIPrimaryHeading title="Testimonials" />
