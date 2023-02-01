@@ -9,6 +9,12 @@ module.exports = {
     "./nuxt.config.{js,ts}",
   ],
   theme: {
+    extend: {
+      backgroundImage: {
+        "hero-pool": "url('/assets/images/heroBkgd.jpg')",
+        // 'footer-texture': "url('/img/footer-texture.png')",
+      },
+    },
     screens: {
       sm: "480px",
       md: "768px",

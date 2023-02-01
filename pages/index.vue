@@ -2,7 +2,6 @@
   <div>
     <LayoutHeader />
 
-    <!-- <LayoutHome /> -->
     <SectionHero />
     <SectionServices />
     <SectionStory />
