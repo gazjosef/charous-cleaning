@@ -30,10 +30,16 @@ export default {
   background-size: cover;
   background-image: url("../../assets/images/heroBkgd.jpg");
   background-repeat: no-repeat, repeat;
+  position: relative;
 }
 
 .bg-opacity {
-  background-color: rgba(0, 0, 0, 0.8);
-  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 100%;
+
+  top: 0;
+  left: 0;
+  position: absolute;
 }
 </style>
