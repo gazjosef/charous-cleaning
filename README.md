@@ -1,68 +1,115 @@
-# charous-cleaning
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-## Build Setup
 
-```bash
-# install dependencies
-$ npm install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-# generate static project
-$ npm run generate
-```
+<!--
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+  <a href="https://github.com/gazjosef/ant-software">
+    <img src="/public/img/favicon_io/android-chrome-512x512.png" alt="Logo" width="250" height="250">
+  </a>
+  
+  -->
 
-## Special Directories
+<h3 align="center">Charous Cleaning</h3>
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+  <p align="center">
+A professional website showcasing the services, skills and work of Charous Cleaning.
+    <br />
+  </p>
+</div>
 
-### `assets`
 
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-### `components`
 
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
 
-### `layouts`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+### Built-With
 
-### `pages`
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
 
-### `plugins`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
 
-### `static`
+<!-- GETTING STARTED -->
+## Getting Started
 
-This directory contains your static files. Each file inside this directory is mapped to `/`.
+### Prerequisites
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
+### Installation
 
-### `store`
+1. Clone the repo
+   ```sh
+   git clone https://github.com/gazjosef/ant-software.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+<!-- CONTACT -->
+## Contact
+
+
+Live: [https://www.antsoftware.dev/](https://www.antsoftware.dev/)
+
+Project Link: [https://github.com/gazjosef/ant-software](https://github.com/gazjosef/ant-software)
+
+Gareth Hind - garethjhind@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
