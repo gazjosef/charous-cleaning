@@ -2,7 +2,7 @@
   <img
     :src="require(`../../assets/images/${image}.jpg`)"
     alt="alt"
-    class="max-w-md rounded"
+    class="w-full h-64 rounded object-cover"
   />
 </template>
 

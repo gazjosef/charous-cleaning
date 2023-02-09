@@ -4,38 +4,38 @@
     <div class="container">
       <div class="grid md:grid-cols-3 gap-4">
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool1"
+          title="pool1"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool3"
+          title="pool3"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool3"
+          title="pool3"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool4"
+          title="pool4"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool3"
+          title="pool3"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="clean"
-          title="Clean"
+          image="pool4"
+          title="pool4"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
