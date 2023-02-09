@@ -97,12 +97,9 @@ A professional website showcasing the services, skills and work of Charous Clean
 <!-- CONTACT -->
 ## Contact
 
-<!--
-Live: [https://www.antsoftware.dev/](https://www.antsoftware.dev/)
+Live: [https://charous-cleaning.netlify.app/](https://charous-cleaning.netlify.app/)
 
-Project Link: [https://github.com/gazjosef/ant-software](https://github.com/gazjosef/ant-software)
-
--->
+Project Link: [https://github.com/gazjosef/charous-cleaning](https://github.com/gazjosef/charous-cleaning)
 
 Gareth Hind - garethjhind@gmail.com
 
