@@ -15,7 +15,7 @@
 A professional and user-friendly website for a pool cleaning, repairing, and servicing business. This website uses technologies such as Vue, Nuxt, and Tailwind.
     
 
-    <br />
+<!--     <br /> -->
   </p>
 </div>
 
