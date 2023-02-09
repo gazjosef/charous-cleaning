@@ -14,7 +14,7 @@
   <p align="center">
 A professional and user-friendly website for a pool cleaning, repairing, and servicing business. This website uses technologies such as Vue, Nuxt, and Tailwind.
     
-  <p align="center">Vue provides a highly reactive and customizable user interface. Nuxt adds server-side rendering, static site generation, and improved performance to Vue applications. Tailwind makes it easy to create fast-loading, highly-readable, and responsive web pages.</p>
+
     <br />
   </p>
 </div>
@@ -45,6 +45,7 @@ A professional and user-friendly website for a pool cleaning, repairing, and ser
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+  <p align="center">Vue provides a highly reactive and customizable user interface. Nuxt adds server-side rendering, static site generation, and improved performance to Vue applications. Tailwind makes it easy to create fast-loading, highly-readable, and responsive web pages.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
