@@ -5,8 +5,20 @@
     <div class="grid md:grid-cols-2 gap-4">
       <div class="grid place-content-center">
         <UIParagraph
-          text="Lorem ipsum, dolor sit amet consectetur adipisicing elit. In at enim
-          ut, explicabo sequi eligendi."
+          text="Welcome to our pool cleaning business! We are a team
+        of experienced and highly skilled professionals, dedicated to providing
+        top-notch pool cleaning services to our valued clients. Our goal is to
+        make sure that every pool we clean is sparkling clean, safe, and ready
+        for use."
+        />
+        <UIParagraph
+          text="With years of experience in the pool cleaning
+        industry, we have the knowledge and expertise to tackle even the
+        toughest cleaning tasks. Our technicians use state-of-the-art equipment
+        and environmentally-friendly products to ensure that your pool is
+        cleaned thoroughly and efficiently. We understand the importance of
+        keeping your pool in top condition, and that's why we strive to provide
+        you with the best possible service."
         />
       </div>
       <div class="grid place-content-center">

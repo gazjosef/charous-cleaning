@@ -9,22 +9,19 @@
             image="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg"
             name="Maria Smantha"
             location="Lane Cove"
-            review="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id
-      officiis hic tenetur quae quaerat ad velit ab hic tenetur."
+            review="I recently had a leak in my pool and was in desperate need of a repair. I called Charous Cleaning and was impressed by the prompt and professional service I received. The technicians arrived on time, assessed the issue, and had the repair completed in no time."
           />
           <UITestimonialCard
             image="https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg"
             name="Lisa Cudrow"
             location="Chatswood"
-            review="Ut enim ad minima veniam, quis nostrum exercitationem ullam
-              corporis suscipit laboriosam, nisi ut aliquid commodi."
+            review="I have been using Charous Cleaning for regular pool cleaning and maintenance for the past year and I am extremely happy with their services. The team is always prompt, professional, and thorough in their cleaning."
           />
           <UITestimonialCard
             image="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg"
             name="John Smith"
             location="Longueville"
-            review="At vero eos et accusamus et iusto odio dignissimos ducimus qui
-              blanditiis praesentium voluptatum deleniti atque corrupti."
+            review="I recently started using Charous Cleaning for all of my pool maintenance needs and I couldn't be happier. The team is knowledgeable, friendly, and always goes above and beyond to make sure my pool is in top condition."
           />
         </div>
       </section>
