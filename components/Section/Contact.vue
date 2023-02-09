@@ -12,14 +12,13 @@
               class="grow-0 shrink-0 basis-auto mb-6 md:mb-0 w-full md:w-6/12 px-3 lg:px-6"
             >
               <p class="text-gray-500 mb-6">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Laudantium, modi accusantium ipsum corporis quia asperiores
-                dolorem nisi corrupti eveniet dolores ad maiores repellendus
-                enim autem omnis fugiat perspiciatis? Ad, veritatis.
+                Thank you for considering Charous Cleaning for all of your pool
+                maintenance needs. To get in touch with us, please use the
+                following information:
               </p>
-              <p class="text-gray-500 mb-2">New York, 94126, United States</p>
+              <p class="text-gray-500 mb-2">Lane Cove, 2066, Australia</p>
               <p class="text-gray-500 mb-2">+ 01 234 567 89</p>
-              <p class="text-gray-500 mb-2">info@gmail.com</p>
+              <p class="text-gray-500 mb-2">info@charouscleaning.com</p>
             </div>
             <div
               class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full md:w-6/12 px-3 lg:px-6"
