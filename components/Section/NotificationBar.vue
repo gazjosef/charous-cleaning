@@ -1,6 +1,5 @@
 <template>
   <div class="bg-black | text-white">
-    <div>Notification Bar</div>
     <div
       class="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300"
     >
