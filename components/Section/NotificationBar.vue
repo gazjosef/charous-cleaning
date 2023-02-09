@@ -1,7 +1,7 @@
 <template>
   <div class="bg-black | text-white">
     <div
-      class="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300"
+      class="flex justify-center items-center lg:justify-between px-6 py-3 border-b border-gray-300"
     >
       <div class="mr-12 hidden lg:block">
         <span>Get connected with us on social networks:</span>

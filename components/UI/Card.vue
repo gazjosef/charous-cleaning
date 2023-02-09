@@ -2,7 +2,7 @@
   <div class="bg-white max-w-sm rounded-lg shadow-lg">
     <a href="#!">
       <img
-        class="rounded-t-lg"
+        class="rounded-t-lg w-full h-64"
         :src="require(`@/assets/images/${image}.jpg`)"
         :alt="image"
       />

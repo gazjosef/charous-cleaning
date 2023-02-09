@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-aliceBlue min-h-screen mx-auto | grid place-content-center">
+  <div class="bg-aliceBlue mx-auto | grid place-content-center">
     <div class="container">
-      <section class="max-w-5xl mb-20 | text-gray-700">
+      <section class="max-w-5xl mb-20 my-20 | text-gray-700">
         <UIPrimaryHeading title="Testimonials" />
 
         <div class="grid md:grid-cols-3 gap-6 lg:gap-12 text-center">
