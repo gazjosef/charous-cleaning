@@ -10,8 +10,8 @@
           of the card's content."
         />
         <UIGalleryImage
-          image="pool3"
-          title="pool3"
+          image="pool2"
+          title="pool2"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
@@ -28,14 +28,14 @@
           of the card's content."
         />
         <UIGalleryImage
-          image="pool3"
-          title="pool3"
+          image="pool5"
+          title="pool5"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
         <UIGalleryImage
-          image="pool4"
-          title="pool4"
+          image="pool6"
+          title="pool6"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />
