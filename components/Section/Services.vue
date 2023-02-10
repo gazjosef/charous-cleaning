@@ -10,20 +10,17 @@
         <UICard
           image="clean"
           title="Clean"
-          excerpt="Some quick example text to build on the card title and make up the bulk
-        of the card's content."
+          excerpt="Maintain and preserve the cleanliness, hygiene, and overall appearance of a swimming pool"
         />
         <UICard
           image="repair2"
           title="Repair"
-          excerpt="Some quick example text to build on the card title and make up the bulk
-        of the card's content."
+          excerpt="Fix any problems or issues that arise with a swimming pool, including its structure, equipment, and features."
         />
         <UICard
           image="service"
           title="Service"
-          excerpt="Some quick example text to build on the card title and make up the bulk
-        of the card's content."
+          excerpt="Regular maintenance and upkeep of a swimming pool to ensure its cleanliness, safety, and proper operation. "
         />
       </div>
     </div>
