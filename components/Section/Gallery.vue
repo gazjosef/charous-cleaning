@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen mx-auto | grid place-content-center">
-    <UIPrimaryHeading title="Follow Us @Charous Cleaning" />
     <div class="container">
+      <UIPrimaryHeading title="Follow Us @Charous Cleaning" />
       <div class="grid md:grid-cols-3 gap-4">
         <UIGalleryImage
           image="pool1"

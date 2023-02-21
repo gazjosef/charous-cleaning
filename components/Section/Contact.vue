@@ -16,9 +16,9 @@
                 maintenance needs. To get in touch with us, please use the
                 following information:
               </p>
-              <p class="text-gray-500 mb-2">Lane Cove, 2066, Australia</p>
-              <p class="text-gray-500 mb-2">+ 01 234 567 89</p>
-              <p class="text-gray-500 mb-6">info@charouscleaning.com</p>
+              <p class="text-gray-400 mb-2">Lane Cove, 2066, Australia</p>
+              <p class="text-gray-400 mb-2">+ 01 234 567 89</p>
+              <p class="text-gray-400 mb-6">info@charouscleaning.com</p>
               <p class="text-gray-500 mb-2 max-w-prose">
                 If you prefer, you can also fill out the contact form on our
                 website and a member of our team will respond to your inquiry as

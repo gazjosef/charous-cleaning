@@ -7,11 +7,12 @@
         :alt="image"
       />
     </a>
-    <div class="p-6">
+    <div class="h-44 p-6">
       <UISecondaryHeading :title="title" />
 
       <UIParagraph :text="excerpt" />
-
+    </div>
+    <div class="p-6">
       <UIButton />
     </div>
   </div>
