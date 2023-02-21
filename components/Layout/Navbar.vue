@@ -4,7 +4,7 @@
     <div class="flex items-center justify-between">
       <!-- LOGO -->
       <div class="pt-2">
-        <h1 class="text-3xl">Charous Cleaning</h1>
+        <h1 class="font-medium text-3xl uppercase">Charous Cleaning</h1>
       </div>
 
       <!-- MENU ITEMS -->

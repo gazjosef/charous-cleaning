@@ -1,21 +1,22 @@
 <template>
   <div>
     <div class="bg-image min-h-screen">
-      <div class="bg-opacity"></div>
-    </div>
-    <!-- <div
-      class="bg-indigoBlue | | min-h-screen relative grid place-content-center text-center text-white"
-    >
-      <div class="min-h-[50%] flex flex-col">
-        <p class="mb-2">WELCOME TO CHAROUS CLEANING. AGENCY IN BERLIN.</p>
+      <div class="bg-opacity | grid place-content-center">
+        <div class="min-h-[50%] | text-center text-white">
+          <h1 class="mb-3 | text-4xl">WELCOME TO CHAROUS CLEANING.</h1>
+          <p class="mb-3">
+            Expert Pool Cleaning, Repairs, and Service in Lane Cove and
+            Surrounding Suburbs.
+          </p>
 
-        <button
-          class="border border-white py-4 px-4 rounded max-w-min mx-auto font-bold"
-        >
-          Discover
-        </button>
+          <button
+            class="border border-white py-2 px-4 rounded mx-auto font-bold"
+          >
+            Enquire Now
+          </button>
+        </div>
       </div>
-    </div> -->
+    </div>
   </div>
 </template>
 

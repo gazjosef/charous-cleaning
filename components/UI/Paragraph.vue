@@ -1,5 +1,5 @@
 <template>
-  <p class="max-w-lg mb-4 | text-lg">{{ text }}</p>
+  <p class="max-w-lg mb-4 | text-neutral-500 text-lg">{{ text }}</p>
 </template>
 
 <script>
