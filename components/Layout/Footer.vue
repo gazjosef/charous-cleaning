@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-midnight | text-center lg:text-left text-white">
+  <footer class="bg-black | text-center lg:text-left text-white">
     <!-- SOCIAL MEDIA LINKS -->
     <div
       class="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300"
