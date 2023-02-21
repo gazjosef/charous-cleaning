@@ -7,13 +7,15 @@
         :alt="image"
       />
     </a>
-    <div class="h-44 p-6">
-      <UISecondaryHeading :title="title" />
+    <div class="h-72 | flex flex-col justify-between">
+      <div class="pt-6 px-6">
+        <UISecondaryHeading :title="title" />
 
-      <UIParagraph :text="excerpt" />
-    </div>
-    <div class="p-6">
-      <UIButton />
+        <UIParagraph :text="excerpt" />
+      </div>
+      <div class="p-6">
+        <UIButton />
+      </div>
     </div>
   </div>
 </template>
