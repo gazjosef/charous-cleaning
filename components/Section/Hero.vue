@@ -3,8 +3,11 @@
     <div class="bg-image min-h-screen">
       <div class="bg-opacity | grid place-content-center">
         <div class="min-h-[50%] | text-center text-white">
-          <h1 class="mb-3 | text-4xl">WELCOME TO CHAROUS CLEANING.</h1>
-          <p class="mb-3">
+          <h1 class="mb-3 | font-medium text-4xl">
+            WELCOME TO CHAROUS CLEANING.
+          </h1>
+
+          <p class="mb-3 | text-neutral-500 text-lg tracking-wide">
             Expert Pool Cleaning, Repairs, and Service in Lane Cove and
             Surrounding Suburbs.
           </p>
