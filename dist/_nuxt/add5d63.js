@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{269:function(t,n,e){"use strict";e.r(n);var r={props:{text:String},name:"UIParagraph"},l=e(42),component=Object(l.a)(r,(function(){var t=this;return(0,t._self._c)("p",{staticClass:"max-w-lg mb-4 | text-lg"},[t._v(t._s(t.text))])}),[],!1,null,"19868631",null);n.default=component.exports}}]);
