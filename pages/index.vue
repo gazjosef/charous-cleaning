@@ -1,7 +1,7 @@
 <template>
   <div>
     <LayoutHeader />
-
+    <!-- TEST -->
     <SectionHero />
     <SectionServices />
     <SectionStory />
