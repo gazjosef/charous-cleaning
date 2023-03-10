@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{278:function(t,e,n){"use strict";n.r(e);var r={props:{title:String},name:"UISecondaryHeading"},c=n(42),component=Object(c.a)(r,(function(){var t=this;return(0,t._self._c)("h2",{staticClass:"mb-4 | font-medium text-xl uppercase"},[t._v(t._s(t.title))])}),[],!1,null,"217d2d55",null);e.default=component.exports}}]);
