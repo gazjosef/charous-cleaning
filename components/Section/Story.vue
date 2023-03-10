@@ -20,12 +20,6 @@
         />
       </div>
       <div class="grid place-content-center">
-        <!-- <img
-          src="../../assets/images/jubeo-hernandez-ZmWLGkPe1Sg-unsplash.jpg"
-          class="p-1 bg-white border rounded max-w-sm"
-          alt="..."
-        /> -->
-
         <UIImage image="repair2" alt="Hello World" />
       </div>
     </div>

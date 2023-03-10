@@ -2,7 +2,7 @@
   <img
     :src="require(`../../assets/images/tinified/${image}.jpg`)"
     alt="alt"
-    class="w-full h-80 rounded object-cover"
+    class="w-[350px] h-80 rounded object-cover"
   />
 </template>
 
