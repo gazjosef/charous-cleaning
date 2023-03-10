@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen mx-auto | grid place-content-center">
+  <div class="min-h-screen mx-auto py-20 | grid place-content-center">
     <div class="container">
       <UIPrimaryHeading title="Follow Us @Charous Cleaning" />
       <div class="grid md:grid-cols-3 gap-4">
@@ -36,6 +36,24 @@
         <UIGalleryImage
           image="pool6"
           title="pool6"
+          excerpt="Some quick example text to build on the card title and make up the bulk
+          of the card's content."
+        />
+        <UIGalleryImage
+          image="pool7"
+          title="pool7"
+          excerpt="Some quick example text to build on the card title and make up the bulk
+          of the card's content."
+        />
+        <UIGalleryImage
+          image="pool8"
+          title="pool8"
+          excerpt="Some quick example text to build on the card title and make up the bulk
+          of the card's content."
+        />
+        <UIGalleryImage
+          image="pool9"
+          title="pool9"
           excerpt="Some quick example text to build on the card title and make up the bulk
           of the card's content."
         />

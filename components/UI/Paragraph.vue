@@ -1,5 +1,5 @@
 <template>
-  <p class="max-w-lg mb-4 | text-left text-neutral-500 text-lg tracking-wide">
+  <p class="max-w-lg mb-4 | text-left text-neutral-500 text-lg tracking-wider">
     {{ text }}
   </p>
 </template>

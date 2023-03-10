@@ -1,6 +1,6 @@
 <template>
   <img
-    :src="require(`../../assets/images/${image}.jpg`)"
+    :src="require(`../../assets/images/tinified/${image}.jpg`)"
     alt="alt"
     class="w-full h-80 rounded object-cover"
   />
