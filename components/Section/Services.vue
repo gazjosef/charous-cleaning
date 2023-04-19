@@ -3,7 +3,7 @@
     id="#services"
     class="bg-aliceBlue min-h-screen | grid place-content-center | text-center"
   >
-    <div class="container">
+    <div class="container | my-20">
       <UIPrimaryHeading title="Check out our services" />
 
       <div class="grid md:grid-cols-3 gap-4">
