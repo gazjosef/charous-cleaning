@@ -3,11 +3,11 @@
     <LayoutHeader />
     <!-- TEST -->
     <SectionHero />
-    <!-- <SectionServices /> -->
+    <SectionServices />
     <!-- <SectionStory /> -->
     <SectionTestimonial />
     <SectionGallery />
-    <SectionContact />
+    <!-- <SectionContact /> -->
 
     <LayoutFooter />
   </div>
