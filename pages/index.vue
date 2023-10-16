@@ -3,8 +3,8 @@
     <LayoutHeader />
     <!-- TEST -->
     <SectionHero />
-    <SectionServices />
-    <SectionStory />
+    <!-- <SectionServices /> -->
+    <!-- <SectionStory /> -->
     <SectionTestimonial />
     <SectionGallery />
     <SectionContact />

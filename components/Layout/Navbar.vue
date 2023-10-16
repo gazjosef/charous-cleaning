@@ -14,6 +14,13 @@
         <a href="#story">Story</a>
         <a href="#contact">Contact</a>
       </div>
+
+      <div>
+        <nuxt-link to="/">Home</nuxt-link>
+        <nuxt-link to="/services">Services</nuxt-link>
+        <nuxt-link to="/story">Story</nuxt-link>
+        <nuxt-link to="/contact">Contact</nuxt-link>
+      </div>
     </div>
   </nav>
 </template>
