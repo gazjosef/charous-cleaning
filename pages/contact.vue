@@ -2,7 +2,6 @@
   <div>
     <LayoutHeader />
     <SectionContact />
-
     <LayoutFooter />
   </div>
 </template>

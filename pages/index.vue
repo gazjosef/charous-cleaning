@@ -1,14 +1,10 @@
 <template>
   <div>
     <LayoutHeader />
-    <!-- TEST -->
     <SectionHero />
     <SectionServices />
-    <!-- <SectionStory /> -->
     <SectionTestimonial />
     <SectionGallery />
-    <!-- <SectionContact /> -->
-
     <LayoutFooter />
   </div>
 </template>

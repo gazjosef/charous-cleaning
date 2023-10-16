@@ -9,13 +9,6 @@
 
       <!-- MENU ITEMS -->
       <div class="hidden md:flex space-x-6">
-        <a href="#home" class="hover:text-indigoBlue">Home</a>
-        <a href="#services">Services</a>
-        <a href="#story">Story</a>
-        <a href="#contact">Contact</a>
-      </div>
-
-      <div>
         <nuxt-link to="/">Home</nuxt-link>
         <nuxt-link to="/services">Services</nuxt-link>
         <nuxt-link to="/story">Story</nuxt-link>

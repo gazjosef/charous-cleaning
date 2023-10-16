@@ -2,6 +2,7 @@
   <div>
     <LayoutHeader />
     <SectionStory />
+    <LayoutFooter />
   </div>
 </template>
 
